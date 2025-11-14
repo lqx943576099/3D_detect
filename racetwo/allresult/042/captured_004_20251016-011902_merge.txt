@@ -1,0 +1,4 @@
+Goal_ID=CB003;Num=1
+Goal_ID=CD002;Num=1
+Goal_ID=CC003;Num=1
+Goal_ID=CB001;Num=1

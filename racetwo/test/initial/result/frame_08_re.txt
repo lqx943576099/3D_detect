@@ -1,0 +1,10 @@
+START
+class=CA001;seq=1;Num=1
+class=CA002;seq=2;Num=1
+class=CB001;seq=3;Num=1
+class=CB002;seq=4;Num=2
+class=CC001;seq=5;Num=0
+class=CC002;seq=6;Num=1
+class=CD001;seq=7;Num=2
+class=CD002;seq=8;Num=0
+END
